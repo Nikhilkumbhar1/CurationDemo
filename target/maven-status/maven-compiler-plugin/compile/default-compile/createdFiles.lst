@@ -5,15 +5,19 @@ com/accion/service/ExcelReaderServiceImpl.class
 com/accion/service/GeminiService.class
 com/accion/controller/GitHubController.class
 com/accion/model/CurationData.class
+com/accion/service/GithubFetchService.class
+com/accion/service/MavenVersionService.class
 com/accion/model/AdvisoryData.class
 com/accion/model/Metrics.class
 com/accion/model/Response.class
 com/accion/model/CvssMetricV31.class
 com/accion/model/Entries.class
 com/accion/model/Reference.class
+com/accion/service/GitHubApiUrlGeneratorService.class
 com/accion/model/Description.class
 com/accion/model/CvssData.class
 com/accion/model/Vulnerability.class
+com/accion/service/MavenSourceService.class
 com/accion/model/Package.class
 com/accion/service/NVDFetchService.class
 com/accion/service/GitHubService.class
@@ -21,6 +25,7 @@ com/accion/controller/VulnerabilityController.class
 com/accion/model/Cve.class
 com/accion/DemoProjectApplication.class
 com/accion/model/References.class
+com/accion/model/CommitChange.class
 com/accion/service/ExcelReaderService.class
 com/accion/controller/GeminiController.class
 com/accion/model/Weakness.class
